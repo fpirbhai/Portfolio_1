@@ -12,3 +12,7 @@ with col2:
     content ="""Hi. Love programming and currently designing this website using 
     python. """
     st.info(content)
+
+content2 ="""Below you can find some of my apps I have built in python. Please feel free to give your feedback
+"""
+st.text(content2)
